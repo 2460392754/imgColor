@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "base-nav": "/components/base/BaseNav",
+    "base-upload": "/components/base/BaseUpload",
+    "base-loading": "/components/base/BaseLoading",
+    "base-modal": "/components/base/BaseModal",
+    "base-steps": "/components/base/BaseSteps",
+    "base-select": "/components/base/BaseSelect",
+    "base-help": "/components/base/BaseHelp",
+    "base-tabs": "/components/base/BaseTabs"
+  }
+}

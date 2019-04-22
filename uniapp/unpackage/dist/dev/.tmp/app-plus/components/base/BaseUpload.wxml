@@ -1,0 +1,1 @@
+<view class="base-upload" bind:__l="__l"><view data-event-opts="{{[['tap',[['baseUpload',['$event']]]]]}}" class="bg" bindtap="__e"><text class="icon cuIcon-cameraadd lg"></text></view></view>

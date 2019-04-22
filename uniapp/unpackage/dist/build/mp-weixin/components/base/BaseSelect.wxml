@@ -1,0 +1,1 @@
+<view class="base-select" bind:__l="__l"><picker value="{{index}}" range="{{list}}" data-event-opts="{{[['change',[['change',['$event']]]]]}}" bindchange="__e"><view class="picker">{{list[index]}}</view></picker><text class="cuIcon-right lg text-gray"></text></view>

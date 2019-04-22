@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "cu-custom": "/wxcomponents/colorui/components/cu-custom"
+  },
+  "component": true
+}

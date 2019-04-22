@@ -1,0 +1,1 @@
+<view class="base-tabs" bind:__l="__l"><scroll-view class="bg-white nav" scroll-x><view class="flex text-center"><slot></slot></view></scroll-view></view>

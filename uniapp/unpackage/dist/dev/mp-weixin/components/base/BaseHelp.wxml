@@ -1,0 +1,1 @@
+<view class="base-help" bind:__l="__l"><button data-event-opts="{{[['tap',[['click',['$event']]]]]}}" class="cu-btn help" bindtap="__e"><text>?</text></button></view>

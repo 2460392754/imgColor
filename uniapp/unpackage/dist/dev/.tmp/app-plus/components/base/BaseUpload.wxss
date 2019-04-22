@@ -1,0 +1,38 @@
+
+.base-upload {
+	color: #3399ff;
+	width: -webkit-max-content;
+	width: -moz-max-content;
+	width: max-content;
+	margin: 50px auto;
+	outline: none;
+	border: none;
+	list-style: none;
+}
+.base-upload > .bg {
+	border: none;
+	height: 300rpx;
+	width: 300rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+	background: #f5f5f5;
+	border-radius: 100%;
+	-webkit-transition: background-color 0.5s;
+	-o-transition: background-color 0.5s;
+	transition: background-color 0.5s;
+	cursor: pointer;
+}
+.base-upload .cuIcon-cameraadd {
+	font-size: 100rpx;
+}
+

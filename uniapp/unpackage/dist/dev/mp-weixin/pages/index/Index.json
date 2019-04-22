@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "vant-weapp",
+  "usingComponents": {
+    "van-button": "/wxcomponents/vant-weapp/button/index",
+    "base-tabbar": "/components/base/BaseTabbar"
+  }
+}

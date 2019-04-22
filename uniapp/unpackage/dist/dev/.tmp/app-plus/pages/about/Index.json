@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "base-tabbar": "/components/base/BaseTabbar",
+    "base-modal": "/components/base/BaseModal"
+  }
+}

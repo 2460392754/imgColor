@@ -1,0 +1,1 @@
+<view class="bg-white padding" bind:__l="__l"><view class="cu-steps"><block wx:for="{{numList}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="{{['cu-item',index>num?'':'text-blue']}}">{{''+item.name+''}}<text class="num" data-index="{{index+1}}"></text></view></block></view></view>

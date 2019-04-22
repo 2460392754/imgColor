@@ -1,0 +1,17 @@
+
+.mainColor {
+	height: 100%;
+}
+.mainColor .charts {
+	width: 750rpx;
+	height: 500rpx;
+}
+.mainColor .canvas-img {
+/* 	height: 0;
+	overflow-y: hidden; */
+}
+.mainColor .qiun-charts {
+	position: absolute;
+	bottom: 100rpx;
+}
+

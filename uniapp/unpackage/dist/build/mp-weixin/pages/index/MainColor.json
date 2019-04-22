@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "base-nav": "/components/base/BaseNav",
+    "base-upload": "/components/base/BaseUpload",
+    "base-loading": "/components/base/BaseLoading"
+  }
+}

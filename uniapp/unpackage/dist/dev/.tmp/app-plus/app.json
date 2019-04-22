@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/index/Index",
+    "pages/about/Index",
+    "pages/index/MainColor",
+    "pages/index/Ascii"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "navigationStyle": "custom"
+  },
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "imgColor",
+  "compilerVersion": "1.9.2",
+  "usingComponents": {}
+}

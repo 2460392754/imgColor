@@ -1,0 +1,56 @@
+
+.ascii.data-v-0506dc0f {
+	background: #fff;
+}
+.ascii .tabs.data-v-0506dc0f {
+	width: 80%;
+	margin: auto;
+}
+.ascii .btns.data-v-0506dc0f {
+	text-align: center;
+	margin: 50rpx 0;
+}
+.ascii .btns > button.data-v-0506dc0f {
+	margin: 0 30rpx;
+}
+.ascii .confirm image.data-v-0506dc0f {
+	width: 100%;
+	-webkit-box-shadow: 0 0 3px 0px #e8e8e8;
+	        box-shadow: 0 0 3px 0px #e8e8e8;
+}
+.ascii .confirm .content > view.data-v-0506dc0f,
+.ascii .transform .content > view.data-v-0506dc0f {
+	margin-top: 40rpx;
+}
+.ascii .content > view > view.data-v-0506dc0f {
+	padding-top: 14rpx;
+}
+.ascii .content .select.data-v-0506dc0f,
+.ascii .content .action.data-v-0506dc0f {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	    -ms-flex-pack: justify;
+	        justify-content: space-between;
+}
+.ascii .content .select > .self-base-select.data-v-0506dc0f {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	    -ms-flex: 1;
+	        flex: 1;
+}
+.ascii .cavHide.data-v-0506dc0f {
+	position: fixed;
+	z-index: -1;
+	-webkit-transform: translate(-100%, -100%);
+	    -ms-transform: translate(-100%, -100%);
+	        transform: translate(-100%, -100%);
+}
+.ascii #cavHtml.data-v-0506dc0f {
+	/* transform:scale(0.363,0.363) */
+	font-family: Courier, monospace;
+}
+
