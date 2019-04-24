@@ -38,9 +38,16 @@ import BaseUpload from '@/components/BaseUpload';
 import BaseHelp from '@/components/BaseHelp';
 import BaseModal from '@/components/BaseModal';
 import BaseSpin from '@/components/BaseSpin';
-import echarts from "echarts";
 import rgbHex from "rgb-hex";
 import computed from "@/js/computed.js";
+
+// 引入基本组件和饼图
+let echarts = require('echarts/lib/echarts');
+require('echarts/lib/chart/pie');
+// 引入提示框和title组件
+require('echarts/lib/component/tooltip')
+require('echarts/lib/component/title')
+require('echarts/lib/component/legend')
 
 export default {
     data () {
@@ -61,7 +68,6 @@ export default {
         // 图片上传成功回调
         uploadSuccessCallback () {
             this.spinIsShow = true;
-            console.log(this.spinIsShow)
             this._echartsInit();
         },
 

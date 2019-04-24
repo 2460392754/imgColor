@@ -193,6 +193,8 @@ export default {
                     color
                 });
 
+            this.blob = afterObj.blob;
+
             this.imgParams.after.filePath = afterObj.filePath;
             this.imgParams.after.size = this._sizeFormat(afterObj.size);
             this.imgParams.after.name = `img_${this.time.start}.png`;
@@ -272,10 +274,6 @@ export default {
             // 释放内存
             URL.revokeObjectURL(this.imgParams.after.filePath)
         },
-
-
-
-
 
 
 
