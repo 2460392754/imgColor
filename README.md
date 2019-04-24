@@ -1,4 +1,4 @@
-# imgcolor
+# imgColor
 
 * [目录](#)
     * [html](#html) 
